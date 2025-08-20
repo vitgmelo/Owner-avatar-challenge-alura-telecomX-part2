@@ -102,6 +102,6 @@ O projeto de predição de churn da Telecom X apresenta excelentes resultados, c
 **A Telecom X está pronta para dar o próximo passo em direção a uma solução de inteligência preditiva eficaz!**
 
 ---
-*Desenvolvido por: Analista de Machine Learning Júnior*  
-*Data: Dezembro 2024*  
+*Desenvolvido por: Analista de Machine Learning Júnior - Vitória Gomes*  
+*Data: Agosoto 2025*  
 *Projeto: Telecom X - Parte 2*
