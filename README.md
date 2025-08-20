@@ -128,7 +128,7 @@ jupyter notebook TelecomX_ML_Modeling.ipynb
 
 ## 👨‍💻 Autor
 
-**Analista de Machine Learning Júnior** - Vitória Gomes
+**Analista de Machine Learning Júnior** - Vitória Gomes <br>
 **Data:** Agosto 2025  
 **Missão:** Desenvolver soluções preditivas para redução de churn
 
